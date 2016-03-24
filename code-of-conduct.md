@@ -97,6 +97,7 @@ the incident response team can be reached by directly messaging anyone on the
 list below:
 
 - Brian Hicks (brianhicks on Slack, or brian@brianthicks.com)
+- Steven Borrelli (stevendborrelli on Slack, or steve@borrelli.org)
 
 ## Source
 
