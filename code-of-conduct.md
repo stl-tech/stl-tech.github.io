@@ -97,3 +97,9 @@ the incident response team can be reached by directly messaging anyone on the
 list below:
 
 - Brian Hicks (brianhicks on Slack, or brian@brianthicks.com)
+
+## Source
+
+This anti-harassment policy is based on the
+[example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Community_anti-harassment),
+created by the Geek Feminism community.
