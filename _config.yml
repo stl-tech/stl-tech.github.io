@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: STL Tech
+email: brian@brianthicks.com
+description: An online home of the St. Louis Technology community
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://stl-tech.github.io" # the base hostname & protocol for your site
+twitter_username: brianhicks
+github_username:  stl-tech
+permalink: pretty
+
+# Build settings
+markdown: kramdown
